@@ -1,4 +1,5 @@
-# About Project
+# Welcome!
+### AI-Powered Sales Software: Amplifying Enterprise Selling & Coaching Skills
 
 We are driving innovation at SAM.Coach by creating a cutting-edge solution that seamlessly integrates Zoom's meeting recording and transcription capabilities with SAM.Coach's CRM platform, all facilitated by an in-call bot. 
  
